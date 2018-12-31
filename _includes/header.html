@@ -11,11 +11,11 @@
             <i class="menu-close ion ion-ios-close"></i>
             <ul class="menu-list">
               <li class="menu-item"><a href="{{site.baseurl}}/" class="menu-link">Portfolio</a></li>
-              <li class="menu-item"><a href="{{site.baseurl}}/" class="menu-link">Test</a></li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}
-              <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
+              {% assign navigation_pages = site.html_pages | sort: 'nav_include' %}
+              {% for node in navigation_pages %}
+                {% unless node.name == '404.html' %}
+              {% if node.nav_include %}
+              <li class="menu-item"><a href="{{ node.url | prepend: site.baseurl }}" class="menu-link">{{ node.title }}</a></li>
               {% endif %}
                 {% endunless %}
               {% endfor %}
