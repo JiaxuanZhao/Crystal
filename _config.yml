@@ -3,7 +3,7 @@
 
 title: Crystal's blog
 description: Includes my painting and daily lives # this means to ignore newlines until "baseurl:"
-baseurl: "/Crystal" # the subpath of your site, e.g. /blog
+baseurl: "/CrystalZhao95-Sanye-Life" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
