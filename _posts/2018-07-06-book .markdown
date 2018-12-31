@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Feather Bookmark
+date:   2018-07-06
+image:  bkFeather.jpg
+tags:   watercolor illustration
+---
+
+One of my favorite water color painting. The tutorial is 
+
+
+
+
+<div style="text-align:center" markdown="1">
+
+![]({{site.baseurl}}/img/IMG_7080.jpg){:height="50%" width="40%"}<br>
+
+
+</div>

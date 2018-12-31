@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Color Sky
+date:   2018-07-04
+image:  skyb.png
+tags:   watercolor illustration
+---
+
+One of my favorite water color painting. The tutorial is 
+
+
+
+
+<div style="text-align:center" markdown="1">
+
+![]({{site.baseurl}}/img/IMG_7079.jpg){:height="50%" width="40%"}
+![]({{site.baseurl}}/img/IMG_7078.jpg){:height="80%" width="40%"}<br>
+
+
+</div>

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Mountain
+date:   2018-08-07
+image:  mont.jpg
+tags:   watercolor illustration 古风
+---
+
+The backgroub photo is from google. I really like 
+
+
+
+<div style="text-align:center" markdown="1">
+
+![]({{site.baseurl}}/img/IMG_7081.jpg){:height="80%" width="60%"}<br>
+
+
+</div>
